@@ -1,0 +1,16 @@
+{
+  "name": "teamboard",
+  "version": "0.2.0",
+  "private": true,
+  "description": "Project dashboard for small agencies.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "14.2.15",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  }
+}
